@@ -48,6 +48,8 @@ print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
 ```
 
+
+
 ## <H3>Output</H3>
 ![Screenshot 2025-05-14 134830](https://github.com/user-attachments/assets/a4d6f8ec-2f42-4d0a-b1fb-40cdc63b33e7)
 
